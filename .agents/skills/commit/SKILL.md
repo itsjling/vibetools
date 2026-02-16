@@ -1,4 +1,5 @@
 ---
+name: commit
 description: Commit using Conventional Commits (explicit permission required)
 agent: build
 ---
